@@ -1,21 +1,22 @@
 # Hi, I'm ADIL 👋
 
-### Web Designer | Digital Marketer | Data Analyst
+### Web Designer | SEO Specialist | Digital Marketer | AI Video Creator
 
-I'm a passionate digital professional interested in building modern websites, improving online visibility, and transforming data into meaningful insights.
+I am a digital professional focused on website design, search engine optimization, digital marketing, AI-powered video creation, and creative digital solutions.
 
-## 💻 My Skills
+## 💻 My Skills & Services
 
-- **Web Design:** HTML, CSS, JavaScript
-- **Digital Marketing:** SEO, Social Media Marketing
-- **Data Analytics:** Advanced Excel, SQL
-- **Reporting:** Dashboard Development, Data Visualization
-- **Creative Tools:** Canva, AI Tools
+- **Web Design:** HTML, CSS, JavaScript, Responsive Websites
+- **SEO:** On-Page SEO, Off-Page SEO, Keyword Research, Local SEO
+- **Digital Marketing:** Social Media Marketing, Online Promotion
+- **AI Video Creation:** AI-powered promotional videos, Instagram Reels, Facebook Videos, YouTube Shorts
+- **Graphic Design:** Canva, Social Media Posts, Banners, Branding
+- **Data Analytics:** Advanced Excel, SQL Basics, Dashboard Development
 
 ## 🚀 My Projects
 
 ### 1. ELITE TUITION PROVIDER
-Educational website built and hosted using GitHub Pages.
+Educational website designed and hosted using GitHub Pages.
 
 [View Live Website](https://mdadilahmad60.github.io/elite-tuition-website/)
 
@@ -30,7 +31,7 @@ Canva designs, social media creatives, banners and branding.
 [View Repository](https://github.com/mdadilahmad60/adil-graphic-design-portfolio)
 
 ### 4. Placement Analytics Dashboard
-Data analytics project using Excel dashboards.
+A practical project using Excel dashboard and data reporting.
 
 [View Repository](https://github.com/mdadilahmad60/placement-analytics-dashboard)
 
@@ -39,19 +40,20 @@ Educational and skill development website.
 
 [View Repository](https://github.com/mdadilahmad60/adil-edutrack-skill-society)
 
-## 🎯 What I Do
+## 🎯 What I Offer
 
-- Website Design & Development
-- SEO & Digital Marketing
-- Business Website Solutions
-- Excel Reporting & Data Analytics
-- Dashboard Development
+- Professional Website Design
+- SEO & Local SEO Services
+- Social Media Marketing
+- AI Promotional Video Creation
+- Graphic Design & Branding
+- Excel Reporting & Dashboard Development
 
 ## 📩 Contact Me
 
+- **Email:** mdadilahmad8@gmail.com
 - **GitHub:** https://github.com/mdadilahmad60
-- **Email:** mdadilahmad60@gmail.com
-- **Phone:** +91 91224 59605
+- **WhatsApp:** +91 91224 59605
 
 ---
 
