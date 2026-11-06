@@ -1,41 +1,78 @@
-# ADIL | Web Design & Digital Marketing
+# Hi, I'm ADIL 👋
 
-Welcome to my portfolio! I create responsive websites, digital experiences and data-driven solutions to help businesses grow.
+## Web Designer | SEO Specialist | Digital Marketer | AI Video Creator
 
-**Web Design | SEO | Digital Marketing | AI Content Creation | Excel | SQL**
-
-## My Projects & Websites
-
-| Project                           | Live Preview                                                                    | View Code                                                                   |
-| --------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| **ADIL – Web Design Portfolio**   | Deployment Pending                                                              | [View Code](https://github.com/mdadilahmad60/adil-portfolio)                |
-| **Adil Edutrack Skill Society**   | [🌐 Live Website](https://mdadilahmad60.github.io/adil-edutrack-skill-society/) | [View Code](https://github.com/mdadilahmad60/adil-edutrack-skill-society)   |
-| **ELITE TUITION PROVIDER**        | [🌐 Live Website](https://mdadilahmad60.github.io/elite-tuition-website/)       | [View Code](https://github.com/mdadilahmad60/elite-tuition-website)         |
-| **Graphic Design Portfolio**      | Deployment Pending                                                              | [View Code](https://github.com/mdadilahmad60/adil-graphic-design-portfolio) |
-| **Placement Analytics Dashboard** | Deployment Pending                                                              | [View Code](https://github.com/mdadilahmad60/placement-analytics-dashboard) |
-| **My First Landing Page**         | Deployment Pending                                                              | [View Code](https://github.com/mdadilahmad60/My-First-Landing-page-)        |
-
-## My Skills
-
-- Responsive Website Design
-- HTML, CSS & JavaScript
-- Search Engine Optimization (SEO)
-- Digital Marketing
-- Social Media Marketing
-- AI Video & Content Creation
-- Advanced Excel & Dashboard
-- SQL & Data Analysis
-
-## Let's Work Together
-
-I am open to website design projects, digital marketing work and professional collaborations.
-
-**Contact:** +91 91224 59605
-
-**GitHub:** [github.com/mdadilahmad60](https://github.com/mdadilahmad60)
-
-**Email:** [mdadilahmad60@gmail.com](mailto\:mdadilahmad60@gmail.com)
+I am a digital professional focused on website design, search engine optimization, digital marketing, AI-powered video creation, and creative digital solutions.
 
 ---
 
-*Designing Websites. Growing Businesses. Creating Digital Experiences.*
+## 💻 My Skills & Services
+
+- **Web Design:** HTML, CSS, JavaScript, Responsive Websites
+- **SEO:** On-Page SEO, Off-Page SEO, Keyword Research, Local SEO
+- **Digital Marketing:** Social Media Marketing, Online Promotion
+- **AI Video Creation:** AI-powered promotional videos, Instagram Reels, Facebook Videos, YouTube Shorts
+- **Graphic Design:** Canva, Social Media Posts, Banners, Branding
+- **Data Analytics:** Advanced Excel, SQL Basics, Dashboard Development
+
+---
+
+## 🚀 My Projects
+
+### 1. ELITE TUITION PROVIDER
+Educational website designed and hosted using GitHub Pages.
+
+🌐 [View Live Website](https://mdadilahmad60.github.io/elite-tuition-website/) | 💻 [View Code](https://github.com/mdadilahmad60/elite-tuition-website)
+
+### 2. Elite Tuition Provider – Admission Management App
+Admission management app for tracking student admissions.
+
+📱 [Visit Admission Management App](https://mdadilahmad60.github.io/elite-tuition-provider-app/) | 💻 [View Code](https://github.com/mdadilahmad60/elite-tuition-provider-app)
+
+### 3. ADIL Portfolio
+My professional web design and digital marketing portfolio.
+
+🌐 [View Live Website](https://mdadilahmad60.github.io/adil-portfolio/) | 💻 [View Code](https://github.com/mdadilahmad60/adil-portfolio)
+
+### 4. Graphic Design Portfolio
+Canva designs, social media creatives, banners and branding.
+
+🌐 [View Live Gallery](https://mdadilahmad60.github.io/adil-graphic-design-portfolio/) | 💻 [View Code](https://github.com/mdadilahmad60/adil-graphic-design-portfolio)
+
+### 5. Placement Analytics Dashboard
+A practical project using Excel dashboard and data reporting.
+
+📊 [View Project](https://github.com/mdadilahmad60/placement-analytics-dashboard)
+
+### 6. Adil Edutrack Skill Society
+Educational and skill development website.
+
+🌐 [View Live Website](https://mdadilahmad60.github.io/adil-edutrack-skill-society/) | 💻 [View Code](https://github.com/mdadilahmad60/adil-edutrack-skill-society)
+
+### 7. SQL Practice
+SQL queries and practice exercises.
+
+💻 [View Code](https://github.com/mdadilahmad60/My_SQL_Practice)
+
+---
+
+## 🎯 What I Offer
+
+- Professional Website Design
+- SEO & Local SEO Services
+- Social Media Marketing
+- AI Promotional Video Creation
+- Graphic Design & Branding
+- Excel Reporting & Dashboard Development
+
+---
+
+## 📩 Contact Me
+
+- **Email:** [mdadilahmad8@gmail.com](mailto:mdadilahmad8@gmail.com)
+- **GitHub:** [https://github.com/mdadilahmad60](https://github.com/mdadilahmad60)
+- **WhatsApp:** +91 91224 59605
+
+---
+
+⭐ Thanks for visiting my GitHub Profile!
