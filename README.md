@@ -50,7 +50,7 @@ Educational and skill development website.
 ## 📩 Contact Me
 
 - **GitHub:** https://github.com/mdadilahmad60
-- **Email:** elitetuitionprovider@gmail.com
+- **Email:** mdadilahmad60@gmail.com
 - **Phone:** +91 91224 59605
 
 ---
